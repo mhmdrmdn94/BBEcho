@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        BBEcho.repeate(string: "Eventtus", times: 4)
     }
 
     override func didReceiveMemoryWarning() {
