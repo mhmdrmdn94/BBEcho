@@ -32,5 +32,11 @@ These instructions will get you a copy of the project up and running on your loc
  $ pod install
  ```
 
+## Usage
+
+First,`import BBEcho`
+Then, for example: `BBEcho.repeate(string: "Hey You!", times: 7)`
+
+
 ## License 
  BBEcho is released under [MIT License](https://github.com/mhmdrmdn94/BBEcho/blob/master/LICENSE).
