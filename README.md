@@ -23,7 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
   use_frameworks!
 
   target '<Your Target Name>' do
-   ???
+   pod 'BBEcho'
   end
  ```
  
@@ -33,4 +33,4 @@ These instructions will get you a copy of the project up and running on your loc
  ```
 
 ## License 
- BBEcho is released under [MIT License](https://github.com/mhmdrmdn94/BBToast/blob/master/LICENSE).
+ BBEcho is released under [MIT License](https://github.com/mhmdrmdn94/BBEcho/blob/master/LICENSE).
